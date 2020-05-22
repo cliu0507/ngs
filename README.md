@@ -11,3 +11,15 @@ Why Node:
 6. NPM
 
 https://github.com/jscomplete/ngs
+
+
+Node Web Framework:
+1. Express
+2. koa -- focus on modern js
+3. sails
+4. meteor -- more integrated way to build web server
+
+Template Language with Node
+1. pug
+2. handlebars
+3. EJS -- simpliest one
